@@ -1,0 +1,47 @@
+
+<style>
+
+.row{
+width:96%;
+margin-left:2%;
+margin-right:2%
+}
+
+
+body {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+span{
+font-weight:bold;
+}
+
+ .form-group{
+   padding-left:15px;
+   padding-right:15px;
+   padding-bottom:15px;
+ }
+
+.btn{
+width:200px;
+height:70%;
+border-radius:3px;
+}
+
+.form-control{
+border-radius:3px;
+}
+
+.alert{
+font-size: 18px;
+}
+
+.boldtext{
+font-weight:700;
+
+}
+
+
+</style>
